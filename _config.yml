@@ -1,11 +1,11 @@
-# Site settings
-title: Jurassic
-SEOTitle: Jurassic's Blog
+﻿# Site settings
+title: Hannah
+SEOTitle: Hannah's Blog
 header-img: img/home-bg.jpg
-email: gerry.li.2018@gmail.com
+email: hannah.2015.sh@gmail.com
 description: " Technology & Mathematics & Philosophy "
 keyword: "Technology & Mathematics & Philosophy"
-url: "https://jurassic2018.github.io"              # your host, for absolute URL
+url: "https://2018.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -13,10 +13,10 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     Jurassic
-zhihu_username:     Jurassic
-github_username:    Jurassic
-twitter_username:   Jurassic
+weibo_username:     Hannah
+zhihu_username:     Hannah
+github_username:    Hannah
+twitter_username:   Hannah
 
 
 
